@@ -22,6 +22,22 @@ Your creative sanctuary awaits at QuirkCraft—where your ideas become a captiva
 
 ## Current progress
 
+### YouTube Video
+<video controls>
+  <source src="./Examples/Youtube.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### LinkedIn Post
+<video controls>
+  <source src="./Examples/LinkedIn.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
+### Social Media Content Examples for Cryptocurrency Reality
+
 | Platform              | Topic             | Textual output                      | Image Output                                        |
 |-----------------------|--------------------------|-------------------------|-------------------------------------------------------------|
 | YouTube               | Cryptocurrency Reality   | [Intro - 0:00-0:20]<br>[Host enters, animated background with cryptocurrency symbols]<br>Host: "Hey everyone! Ever wondered what the craze around cryptocurrency really is about? Today, we're diving into the digital coin conundrum! In the next 60 seconds, prepare to debunk myths and unveil the raw truth behind these virtual assets. Let's decode crypto reality!"<br><br>[Body - 0:21-0:40]<br>[Cut to infographics depicting crypto basics and common misconceptions]<br>Host: "Cryptocurrencies, like Bitcoin and Ethereum, are not just digital money. They're a tech revolution! Using blockchain, they allow secure and anonymous transactions. But remember, it's not all digital gold rushes; volatility and security concerns are part of the package."<br><br>[Conclusion - 0:41-0:60]<br>[Show real-life footage of people using cryptocurrency, market charts trending up and down]<br>Host: "The future seems in flux, yet crypto is undeniably shaping it. Whether it's a bubble or the next big thing, only time will tell. Before investing, do your research and be aware of the hype versus reality. Stay smart, stay informed, and keep watching for more truths unveiled!" | ![Social Media Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-eo87DG52g4JxVyZusf8u9eQf/user-qjJoZl6QSJCocBlxKiKBaiZp/img-tYq0c1tkHynKOmS182iVh00l.png?st=2023-11-25T11%3A49%3A04Z&se=2023-11-25T13%3A49%3A04Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-11-25T01%3A00%3A16Z&ske=2023-11-26T01%3A00%3A16Z&sks=b&skv=2021-08-06&sig=uBZOZIyV8QmkeNxvJ3YNBe5YuxCb18emR%2BhU4wu8Yd4%3D)           |

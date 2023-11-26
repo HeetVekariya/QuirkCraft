@@ -20,6 +20,10 @@ Stay tuned for upcoming features, as we're actively exploring the possibility of
 
 Your creative sanctuary awaits at QuirkCraft—where your ideas become a captivating reality! ✨🎨
 
+## UI Design
+
+![UI image](./QuirkCraft/assets/UI.png)
+
 ## Current progress
 
 YouTube Video: [YouTube Example](./Examples/Youtube.mp4)

@@ -70,7 +70,7 @@ api_key = "YOUR_API_KEY"
 reflex run
 ```
 
-`Note`: Must have GPT-4 API key to run the app, you can create [here](https://platform.openai.com/account/api-keys).
+Note : Must have GPT-4 API key to run the app, you can create [here](https://platform.openai.com/account/api-keys).
 
 ---
 

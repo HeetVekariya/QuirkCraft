@@ -9,7 +9,7 @@ class CraftState(rx.State):
     TextualContent: str = ""
     current_status: str = ""
 
-    api_key = "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"
+    api_key = "YOUR_API_KEY"
 
     def send_message(self):
         if self.topic.strip() == "":

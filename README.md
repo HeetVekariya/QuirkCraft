@@ -34,6 +34,44 @@ Your creative sanctuary awaits at QuirkCraft—where your ideas become a captiva
   Your browser does not support the video tag.
 </video>
 
+<br>
+
+## Getting Started
+
+1. Clone the repository
+```bash
+git clone https://github.com/HeetVekariya/QuirkCraft.git
+```
+
+2. Make virtual environment and activate it
+```bash
+python -m venv venv
+source venv/bin/activate
+```
+
+3. Navigate to the project directory
+```bash
+cd QuirkCraft
+``` 
+
+4. Install the dependencies
+```bash
+pip install -r {path to requirements.txt}
+reflex init
+```
+
+5. Add your OpenAI GPT-4 API key to the `state.py` file, replace `YOUR_API_KEY` with your API key.
+```python
+api_key = "YOUR_API_KEY"
+```
+
+6. Run the app
+```bash
+reflex run
+```
+
+`Note`: Must have GPT-4 API key to run the app, you can create [here](https://platform.openai.com/account/api-keys).
+
 ---
 
 ### Social Media Content Examples for Cryptocurrency Reality
@@ -45,7 +83,3 @@ Your creative sanctuary awaits at QuirkCraft—where your ideas become a captiva
 | LinkedIn              | Cryptocurrency Reality   | 🚀 **Exploring the Realities of Cryptocurrency** 🚀<br><br>**A. The Digital Gold Rush**<br>In the digital age, cryptocurrency has emerged as the new frontier, ushering in a financial revolution. 🌐 Much like the gold rushes of the past, crypto promises opportunities, adventure, and of course, the allure of wealth. But what lies beneath the surface?<br><br>**B. Volatile yet Vivid**<br>Cryptocurrencies are renowned for their volatility. Prices can skyrocket 📈 or plummet 📉 in the blink of an eye. This wild ride is not for the faint-hearted. Yet, it's this same unpredictability that attracts investors and technophiles, seeking the next big wave.<br><br>**C. The Technology Tapestry**<br>Beyond the buzz and the boom-and-bust cycles, lies a robust technological framework. Blockchain - the backbone of cryptocurrency - offers a transparent, secure, and decentralized ledger. ⛓️ It's a testament to innovation and the endless human pursuit of efficiency and autonomy.<br><br>**D. Integration into Mainstream**<br>Slowly but surely, crypto is clawing its way into the mainstream. Businesses big and small are starting to accept these digital currencies, while governments are grappling with how to regulate them. 🏦⚖️ The question is not if, but when will crypto become as commonplace as the dollar or the euro?<br><br>**E. The Road Ahead**<br>The future of cryptocurrency is as enigmatic as its inception. Will it redefine our conception of money? Or is it a digital mirage, destined to fade away? 💭 Only time will tell. But one thing is certain – the crypto journey is one of the most intriguing episodes of the 21st century. 🌟<br><br>To the crypto-curious and avid blockchain believers, let's continue to watch this space. Innovation, disruption, and a bit of mystery—cryptocurrency has it all. ✨<br><br>#Cryptocurrency #Blockchain #DigitalEconomy #Innovation #FinTech | ![Social Media Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-eo87DG52g4JxVyZusf8u9eQf/user-qjJoZl6QSJCocBlxKiKBaiZp/img-Ud2QsLudFvmGQWJsX3man95f.png?st=2023-11-25T11%3A55%3A38Z&se=2023-11-25T13%3A55%3A38Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-11-24T23%3A19%3A48Z&ske=2023-11-25T23%3A19%3A48Z&sks=b&skv=2021-08-06&sig=PJJpwr34yvcEIa8%2BnkujvCaGHmRcToDI9/L0WCuPC2k%3D)   |
 | Facebook              | Cryptocurrency Reality   | 🚀👨‍💻 The Cryptoverse Unveiled! 🌐💸 Let's demystify the buzz surrounding the world of cryptocurrencies!<br><br>Part I: The Birth of a New Currency Era<br>"Are we truly witnessing a revolution in the making? 🌟 Bitcoin, Ethereum, and countless other digital currencies have taken the marketplace by storm. But it's more than just skyrocketing prices and tech buzzwords. It's about the power to redefine money as we know it. 🔗 Decentralized, secure, and borderless - cryptocurrencies promise a future where financial freedom is in our hands. #CryptoRevolution<br><br>Part II: Navigating the Waves of Volatility<br>"Buckle up for a rollercoaster ride! 🎢 It's not just about the highs; crypto can be a stormy sea of lows. Volatility is part and parcel of this digital territory—where every dip and spike tells its own tale. Before you dive in, remember: knowledge is power. Arm yourself with research and tread thoughtfully. #InvestSmart #HODLon<br><br>Part III: Embracing the Blockchain Backbone<br>"Underneath the crypto euphoria lies blockchain - the real MVP. 🛠🔗 This isn't just a tech trend; it's a groundbreaking innovation with the potential to disrupt industries far and wide. From banking to healthcare, blockchain's promise of transparency and efficiency could redefine global infrastructures. Let's embrace the tech that empowers cryptocurrency. #BlockchainRevolution<br><br>Part IV: The Reality Check - A Balanced View of Crypto<br>"Reality check - crypto isn't a magic money tree. 🌳❌ It's an emerging market with its share of risks and complexities. While the digital gold rush has its allure, it's crucial to remember that the value of cryptocurrencies can be as unpredictable as the wind. Practice caution, do your due diligence, and never risk more than you can afford to lose. #CryptoAwareness<br><br>Join the conversation and share your thoughts on this financial frontier! Are you onboard the crypto train, or are you watching from afar? Drop your insights and questions below! 💬✨ #CryptoCommunity #DigitalFuture" | ![Social Media Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-eo87DG52g4JxVyZusf8u9eQf/user-qjJoZl6QSJCocBlxKiKBaiZp/img-gDtdwK3D6K6w3DBvtRYk3i3I.png?st=2023-11-25T11%3A59%3A17Z&se=2023-11-25T13%3A59%3A17Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-11-25T02%3A28%3A26Z&ske=2023-11-26T02%3A28%3A26Z&sks=b&skv=2021-08-06&sig=O4tcWYHuAUq1OtQLE/lTgN9Zfe9M8KtEsy%2BP2t73R1o%3D)   |
 
-
----
-
-🚧 **Code Not Pushed Yet:** Due to security and anonymity considerations, the code for QuirkCraft is currently not publicly available. Rest assured, I'm working diligently to ensure a safe and reliable experience for all users. Stay tuned for updates! 🛠️🤖

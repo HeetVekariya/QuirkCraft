@@ -36,7 +36,7 @@ def index() -> rx.Component:
                         style=style.heading_style
                     ),
                     rx.text(
-                        "Craft captivating videos effortlessly with QuirkCraft. Whether you're a seasoned creator or just starting, empower your content creation journey today! 🚀✨",
+                        "Craft captivating videos/posts effortlessly with QuirkCraft. Whether you're a seasoned creator or just starting, empower your content creation journey today! 🚀✨",
                         style=style.quirkcraft_description
                     ),
                     style=style.top_container,

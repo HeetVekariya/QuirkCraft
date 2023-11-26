@@ -22,17 +22,9 @@ Your creative sanctuary awaits at QuirkCraft—where your ideas become a captiva
 
 ## Current progress
 
-### YouTube Video
-<video controls>
-  <source src="./Examples/Youtube.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-### LinkedIn Post
-<video controls>
-  <source src="./Examples/LinkedIn.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+YouTube Video: [YouTube Example](./Examples/Youtube.mp4)
+<br>
+LinkedIn Post: [LinkedIn Example](./Examples/LinkedIn.mp4)
 
 <br>
 

@@ -26,9 +26,10 @@ Your creative sanctuary awaits at QuirkCraft—where your ideas become a captiva
 
 ## Current progress
 
-YouTube Video: [YouTube Example](./Examples/Youtube.mp4)
-<br>
-LinkedIn Post: [LinkedIn Example](./Examples/LinkedIn.mp4)
+| YouTube Video | LinkedIn Post |
+----------------|---------------|
+|<a href="https://www.youtube.com/watch?v=h3UCKO3e6Y4"><img src="QuirkCraft/assets/YouTube.png"/></a>|<a href="https://www.youtube.com/watch?v=5f7vlyqFOws"><img src="QuirkCraft/assets/LinkedIn.png"/></a>|
+
 
 <br>
 

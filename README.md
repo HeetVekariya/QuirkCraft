@@ -14,11 +14,26 @@ Transform your ideas into captivating 60-second masterpieces effortlessly. Quirk
 
 Extend your reach across platforms with QuirkCraft's social media content creation capabilities. Convert your topic into engaging post captions accompanied by a visually striking image tailored for LinkedIn, Facebook, and Twitter. Elevate your social media game with content that stands out and resonates! 🌐🖼️
 
-## Future Endeavors
+## Upcoming Features 🚀
 
-Stay tuned for upcoming features, as we're actively exploring the possibility of generating videos directly from the images created by DALL-E-3. QuirkCraft is committed to pushing the boundaries of creative expression, and I can't wait to bring you even more innovative tools for your content creation journey. 🚀🌈
+Anticipate exciting enhancements on the horizon! While the current version doesn't support direct video generation from images created by DALL-E-3, you can still unleash your creativity. Follow the steps in the README to transform static images into dynamic videos effortlessly using the automated process. Inspired by the innovative technology discussed in [Stability AI Releases Stable Video Diffusion](https://arstechnica.com/information-technology/2023/11/stability-ai-releases-stable-video-diffusion-which-turns-pictures-into-short-videos/), this functionality brings your visuals to life.
 
-Your creative sanctuary awaits at QuirkCraft—where your ideas become a captivating reality! ✨🎨
+### README: Image to Video Automation 🎬 
+
+### Overview 🎥
+
+Effortlessly transform static images into dynamic videos with this automated process. This version doesn't directly generate videos from DALL-E-3 images, but you can still follow the steps below to create engaging videos.
+
+### How it Works 🚀
+
+1. Generate 6 to 10 images using DALL-E-3 for your desired content.
+2. Convert each image into a 2-second video, adding a dynamic touch.
+3. Automate the seamless combination of these video clips into a polished final product using the "moviepy" Python package.
+
+Stay tuned for future updates that may include direct video generation from DALL-E-3 images! 🌈✨
+
+Note: Currently, the video generation process is not available in this project. Though, you can use the above steps to create videos from images.
+
 
 ## UI Design
 
